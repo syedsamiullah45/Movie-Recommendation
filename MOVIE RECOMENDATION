@@ -25,5 +25,5 @@ while(notOver):
     if(int(decision) == 0):
         print("Bye")
         notOver = False
-The above code finds the 3 most similar movies in the dataset to the movie we input.
+
 
